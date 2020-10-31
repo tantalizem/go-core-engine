@@ -1,4 +1,4 @@
-module gocore
+module github.com/tantalizem/go-core-engine
 
 go 1.15
 
