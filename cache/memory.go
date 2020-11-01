@@ -3,8 +3,8 @@ package cache
 import (
 	"fmt"
 	"github.com/google/uuid"
-	"github.com/robinjoseph08/redisqueue/v2"
 	"github.com/spf13/cast"
+	"github.com/tantalizem/redisqueue/v3"
 	"strconv"
 	"sync"
 	"time"

@@ -3,7 +3,7 @@ package cache
 import (
 	"github.com/bsm/redislock"
 	"github.com/go-redis/redis/v7"
-	"github.com/robinjoseph08/redisqueue/v2"
+	"github.com/tantalizem/redisqueue/v3"
 	"time"
 )
 

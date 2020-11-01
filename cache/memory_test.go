@@ -1,7 +1,7 @@
 package cache
 
 import (
-	"github.com/robinjoseph08/redisqueue/v2"
+	"github.com/tantalizem/redisqueue/v3"
 	"sync"
 	"testing"
 )

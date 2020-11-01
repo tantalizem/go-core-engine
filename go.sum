@@ -65,8 +65,8 @@ github.com/stretchr/testify v1.2.1/go.mod h1:a8OnRcib4nhh0OaRAV+Yts87kKdq0PP7pXf
 github.com/stretchr/testify v1.2.2/go.mod h1:a8OnRcib4nhh0OaRAV+Yts87kKdq0PP7pXfy6kDkUVs=
 github.com/stretchr/testify v1.5.1 h1:nOGnQDM7FYENwehXlg/kFVnos3rEvtKTjRvOWSzb6H4=
 github.com/stretchr/testify v1.5.1/go.mod h1:5W2xD1RspED5o8YsWQXVCued0rvSQ+mT+I5cxcmMvtA=
-github.com/tantalizem/redisqueue/v2 v2.1.0 h1:t4As0HOmOA1PlDzXO0tAJho8vjq7Z0CF0bkuwcKIGC8=
-github.com/tantalizem/redisqueue/v2 v2.1.0/go.mod h1:fiNYBqIF/DqZxKvO6faLB6nkBtfJucuM+rDbFhZG1vs=
+github.com/tantalizem/redisqueue/v3 v3.0.0 h1:KsaLZZAp3dSTiJXdUJuNdmMReLd3PuoCjKdH5flrKk0=
+github.com/tantalizem/redisqueue/v3 v3.0.0/go.mod h1:cuKgpuwxCSryeOEU6MiIANMS7ggCx27fjXXTGrDEuQQ=
 github.com/tsuyoshiwada/go-gitcmd v0.0.0-20180205145712-5f1f5f9475df h1:Y2l28Jr3vOEeYtxfVbMtVfOdAwuUqWaP9fvNKiBVeXY=
 github.com/tsuyoshiwada/go-gitcmd v0.0.0-20180205145712-5f1f5f9475df/go.mod h1:pnyouUty/nBr/zm3GYwTIt+qFTLWbdjeLjZmJdzJOu8=
 github.com/urfave/cli v1.20.0 h1:fDqGv3UG/4jbVl/QkFwEdddtEDjh/5Ov6X+0B/3bPaw=
